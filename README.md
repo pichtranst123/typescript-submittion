@@ -3,11 +3,15 @@
 
 `git clone https://github.com/pichtranst123/typescript-todolist-submittion.git`
 
-![watercolor of rocky staying alive -- DALLE (original, digital ink)](./ths.png "watercolor of rocky staying alive -- DALLE (original, digital ink)")
+
 
 `npm install or yarn install`
 
 ## Typescript cli:
+
+# what is your look like?
+![watercolor of rocky staying alive -- DALLE (original, digital ink)](./ths.png "watercolor of rocky staying alive -- DALLE (original, digital ink)")
+
 # create:
 
 `npx ts-node src/index.ts create --title "Task Title" --description "Task Description"`
