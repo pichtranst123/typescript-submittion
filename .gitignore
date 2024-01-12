@@ -1,3 +1,5 @@
+node_modules
+.gitignore
 .architect
 bootstrap.css
 bootstrap.js
